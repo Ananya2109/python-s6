@@ -1,0 +1,12 @@
+1. Write a Python script to find the sum of digits of a number adding repeatedly to single digit.Eg:197= 1+9+7=17=1+7=8.
+
+
+2. Write an efficient Python program to check whether the given number is power of 2.( Use bitwise operator)
+3. Let s=”Python Programming” be a string. Write commands for the following i)reverse the string ii)print last 4 characters iii)count of ‘P’
+4. Write lambda functions for the following i)F(x)=x**3+3*x +2 ii)Filter even numbers from a list
+5. Write a Python program to find the largest digit in a number and also print the position ( assume non repeating digits)
+6. Write a Python program to read a binary number and find the equivalent decimal number. Consider binary point also.
+7. Write a Python program to find the value of cos(x) up to n terms using the series 1-x^2/2 +x^4/4!-x^6/6!......n. Use your own factorial function.
+8. Write a Python program to check the validity of a password given by the user. The Password should satisfy the following criteria: 1. Contains at least one letter between a and z 2. Contains at least one number between 0 and 9 3. Contains at least one letter between A and Z 4. Contains at least one special character from $, #, @ 5. Minimum length of password: 6
+9. Write a recursive function in Python to generate n th Fibonacci number. Use this function to print the Fibonacci series.
+10. Read a text file “sample.txt” and encrypt this file using the shift cipher(Use suitable key).Save the encrypted file in “enc.txt”
